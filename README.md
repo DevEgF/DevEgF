@@ -1,6 +1,6 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋
 
-- 🔭 Trabalho a exatemente 1 ano e 5 meses com mobile (Android e iOS) 📱
+- 🔭 Estou a exatemente 1 ano e 5 meses no mundo do desenvolvimento mobile (Android e iOS) 📱
 - 👔 Trabalho atualmente com Android Nativo 👨🏻‍💻
 - 📚 Atualmente estou estudando a linguagem Swift 😍📱
 
