@@ -1,6 +1,6 @@
 ### Olá!!, Me chamo Egito Filho 👋
 
-- 🔭 Trabalho a exatemente 1 ano e 5 meses com mobile 📱
+- 🔭 Trabalho a exatemente 1 ano e 5 meses com mobile, utilizando linguagens nativas para ambas as plataformas 📱
 - 👔 Trabalho atualmente com Android Nativo 👨🏻‍💻
 - 📚 Atualmente estou estudando a linguagem Swift 😍📱
 
@@ -8,10 +8,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Egito-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Egito-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Egito-iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" >
-   <img align="center" alt="Egito-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
   
   ##
