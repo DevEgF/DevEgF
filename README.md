@@ -1,4 +1,4 @@
-### Olá Mundo!!, Me chamo Egito Filho 👋
+### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
 - 👔 Trabalho atualmente com Android Nativo 👨🏻‍💻
 - 📚 Possuo experiência com as IDE's, frameworks e linguagens abaixo 👇🏻
