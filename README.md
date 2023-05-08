@@ -12,6 +12,7 @@
   <img align="center" alt="Egito-apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
   <img align="center" alt="Egito-apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Egito-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Egito-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Egito-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
