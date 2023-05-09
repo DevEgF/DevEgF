@@ -1,7 +1,8 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
 - 👔 Trabalho atualmente com Android Nativo 👨🏻‍💻
-- 📚 Possuo experiência com as IDE's, frameworks e linguagens abaixo 👇🏻
+- 🏃 Ando estudando swift 
+- 🏆 Possuo experiência com as IDE's, frameworks e linguagens abaixo 👇🏻
 
 
 <div style="display: inline_block"><br>
@@ -18,10 +19,16 @@
 </div>
   
   ##
+
+ 
+[![card](https://github-readme-stats.vercel.app/api?username=DevEgF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ##
  
  <div> 
   <a href="https://www.instagram.com/jegitogsfilho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:egitofilho4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jegitogsfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/_egitof" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="wa.link/7puba6" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
 </div>
