@@ -1,7 +1,7 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
-- 👔 Trabalho atualmente com Android Nativo 👨🏻‍💻
-- 🏃 Ando estudando swift 
+- 👔 Trabalho atualmente com Swift para programação em iOS 👨🏻‍💻
+- 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android Nativo
 - 🏆 Possuo experiência com as IDE's, frameworks e linguagens abaixo 👇🏻
 
 
