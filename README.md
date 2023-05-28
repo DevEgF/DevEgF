@@ -3,16 +3,10 @@
 - 👔 Trabalho atualmente com Kotlin para desenvolvimento de Aplicativos Android Nativo 👨🏻‍💻
 - 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android Nativo
 - 🏃🏻‍♂️ Ando estudando Swift para desenvolvimento de aplicativos iOS Nativo 
-- 🏆 Possuo experiência com as IDE's, frameworks e linguagens abaixo 👇🏻
-
 
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Egito-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Egito-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+ 
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Egito-apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Egito-apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
   
