@@ -1,8 +1,8 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
-- 👔 Trabalho atualmente com Kotlin para desenvolvimento de Aplicativos Android Nativo;
-- 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android Nativo;
-- 🏃🏻‍♂️ Ando estudando Swift para desenvolvimento de aplicativos iOS Nativo;
+- 👔 Trabalho atualmente com desenvolvimento de aplicativos Android nativo;
+- 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android nativo;
+- 🏃🏻‍♂️ Ando estudando Swift para desenvolvimento de aplicativos iOS nativo;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
