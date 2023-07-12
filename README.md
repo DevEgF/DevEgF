@@ -8,11 +8,6 @@
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
-  
-  ##
-
- 
-[![card](https://github-readme-stats.vercel.app/api?username=DevEgF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ##
  
