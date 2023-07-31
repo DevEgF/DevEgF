@@ -2,7 +2,8 @@
 
 - 👔 Trabalho atualmente com desenvolvimento de aplicativos Android nativo;
 - 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android nativo;
-- 🏃🏻‍♂️ Ando aprimorando meu conhecimento em Android estudando Compose e aprendendo Swift para desenvolvimento de aplicativos iOS nativo;
+- 🏃🏻‍♂️ Ando aprimorando meu conhecimento no desenvolvimento Android estudando Compose;
+- 🕐 No tempo vago, dedico-me ao desenvolvimento iOS utilizando a linguagem Swift para criar aplicativos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
