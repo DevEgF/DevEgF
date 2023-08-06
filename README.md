@@ -1,10 +1,9 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
 - 👔 Trabalho atualmente com desenvolvimento de aplicativos Android nativo;
-- 👨🏻‍💻 Possuo experiência no desenvolvimento mobile hibrido utilizando Flutter;
+- 👨🏻‍💻 Possuo experiência no desenvolvimento mobile hibrido utilizando Flutter e nativo iOS utilizando Swift;
 - 👾 Tenho cerca de dois anos de experiência com desenvolvimento Android nativo;
-- 🏃🏻‍♂️ Ando aprimorando meu conhecimento no desenvolvimento Android estudando Compose;
-- 🕐 No tempo vago, dedico-me ao desenvolvimento iOS utilizando a linguagem Swift para criar aplicativos.
+- 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento Android estudando Compose.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
