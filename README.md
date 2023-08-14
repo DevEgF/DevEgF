@@ -1,8 +1,6 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
-- 👔 Trabalho atualmente com desenvolvimento de aplicativos Android nativo;
-- 👨🏻‍💻 Possuo experiência no desenvolvimento mobile hibrido utilizando Flutter;
-- 🕺🏻 Trabalhei por cerca de um ano com desenvolvimento navito iOS utilizando Swift;
+- 👔 Trabalho atualmente com desenvolvimento de aplicativos moveis nativos (Android e iOS);
 - 👾 Tenho dois anos de experiência com desenvolvimento de aplicativos mobile;
 - 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento Android estudando Jetpack Compose.
 
@@ -11,8 +9,6 @@
   <img align="center" alt="Egito-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">           
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Egito-ios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">   
-  <img align="center" alt="Egito-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Egito-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
 
   ##
