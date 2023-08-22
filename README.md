@@ -9,6 +9,8 @@
   <img align="center" alt="Egito-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">           
   <img align="center" alt="Egito-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Egito-ios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">   
+<img align="center" alt="Egito-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">   
+<img align="center" alt="Egito-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">   
 </div>
 
   ##
