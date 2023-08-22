@@ -1,6 +1,6 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
-- 👔 Trabalho atualmente com desenvolvimento de aplicativos moveis nativos (Android e iOS);
+- 👔 Trabalho atualmente com desenvolvimento de aplicativos moveis;
 - 👾 Tenho dois anos de experiência com desenvolvimento de aplicativos mobile;
 - 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento Android estudando Jetpack Compose.
 
