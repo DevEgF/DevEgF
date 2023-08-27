@@ -2,7 +2,7 @@
 
 - 👔 Trabalho atualmente com desenvolvimento de aplicativos moveis;
 - 👾 Tenho dois anos de experiência com desenvolvimento de aplicativos mobile;
-- 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento Android estudando Jetpack Compose.
+- 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento iOS estudando SwiftUI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
