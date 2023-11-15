@@ -1,8 +1,8 @@
 ### Olá Mundo!!, Me chamo Egito Filho 👋🏻
 
-- 👔 Trabalho atualmente com desenvolvimento de aplicativos moveis;
-- 👾 Tenho dois anos de experiência com desenvolvimento de aplicativos mobile;
-- 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento iOS estudando SwiftUI.
+- 👔 Trabalho atualmente com desenvolvimento de aplicativos móveis crossplataforma utilizando o Flutter;
+- 👾 Tenho dois anos de experiência com desenvolvimento nativo de aplicativos para Android;
+- 🕐 No tempo vago, ando aprimorando meu conhecimento no desenvolvimento iOS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
