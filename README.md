@@ -2,7 +2,7 @@
 
 - 👔 I currently work developing cross-platform mobile applications using Flutter;
 - 👾 I have two years of experience in android native application development;
-- 🕐 In my spare time, I'm improving my knowledge in iOS native application development.
+- 🕐 In my spare time, I'm improving my knowledge in development multiplataform apps using KMP.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Egito-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">      
