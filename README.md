@@ -1,7 +1,7 @@
 ### Hello World!!, My name is Egito Filho 👋🏻
 
 - 👔 I currently work developing cross-platform mobile applications using Kotlin MultiPlataform;
-- 👾 I have two years of experience in android native application development;
+- 👾 I have three years of experience in android native application development;
 - 🕐 In my spare time, I'm improving my knowledge in development apps using Swift.
 
 <div style="display: inline_block"><br>
